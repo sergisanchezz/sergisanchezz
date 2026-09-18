@@ -4,18 +4,18 @@
 </p>
 
 <p align="center">
-  <img src="images/bmw.png" height="38" alt="BMW logo" /> <img src="images/eth.png" height="25" alt="ETH logo" />
+  <img src="images/eth.png" height="25" alt="ETH logo" />
 </p>
 
 <p align="center">
   <b>
-    Robotics Research Intern at BMW Group · MSc Robotics, Systems and Control at ETH Zürich 
+    MSc Robotics, Systems and Control at ETH Zürich 
   </b>
 </p>
 
 
 <p align="center">
-  Robot Perception & Learning · Robotic Manipulation · Cross-Modal Perception · Self-Supervised Learning
+  Robot Perception & Learning · Robotic Manipulation · Tactile Sensing · Self-Supervised Learning
 </p>
 
 ---
