@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="images/eth.png" height="25" alt="ETH logo" />
-</p>
-
-<p align="center">
   <b>
     MSc Robotics, Systems and Control at ETH Zürich 
   </b>
