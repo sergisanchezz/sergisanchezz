@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,sklearn,opencv,ros,ubuntu,linux,matlab,docker,git,github,arduino,latex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,sklearn,opencv,ros,ubuntu,debian,linux,matlab,docker,git,github,latex&perline=8" />
   </a>
 </p>
